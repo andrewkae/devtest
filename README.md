@@ -1,4 +1,5 @@
 devtest
 =======
 
-Version 1.2 (Hotfix)
+Version 2.5 (New dev work)
+(includes both hotfix + new dev)
